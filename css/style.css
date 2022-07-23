@@ -63,10 +63,7 @@ nav ul {
 }
 
 .slider {
-    
-    width: 80vw;
-    padding: 10px 45px;
-    overflow: hidden;
+    text-align: center;
 }
 .card{
     max-width:96vw ;
@@ -78,6 +75,7 @@ nav ul {
     justify-content: center;
     flex-direction: column;
     margin: 0 24px;
+    text-align: center;
 }
 .card h2{
     font-family: 'Ubuntu', sans-serif;
@@ -93,6 +91,11 @@ nav ul {
 
 .container {
     height: 142vh;
+    text-align: center;
+}
+.my-2{
+    margin:15px;
+    font-size: 30px;
 }
 
 footer {
